@@ -1,1 +1,11 @@
-# CS-250
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+
+Interpreting user needs begins with gathering comprehensive requirements through direct interaction with users and stakeholders. Creating “user stories” helps break down these needs into manageable, actionable tasks that provide clear guidance on what features to develop. User stories encapsulate the who, what, and why of a requirement, ensuring that the development team understands the user's perspective and the value each feature brings. For instance, in the SNHU Travel project, user stories like "As a user, I want to search for travel destinations so I can plan my vacation" provided a clear direction for the development team, ensuring that the features were aligned with user expectations and needs.
+
+**How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**
+
+My approach to developing programs involves an iterative and incremental process, incorporating continuous feedback and improvements. The Agile methodology, particularly the Scrum framework, supports this by promoting regular sprints, stand-ups, and retrospectives. These practices ensure that the development process remains flexible and adaptive to changes, facilitating constant progress and alignment with client requirements. In my future development work, I hope to incorporate processes such as sprint planning, daily stand-ups, sprint reviews, and retrospectives to maintain a structured yet flexible workflow that allows for continuous improvement and client satisfaction.
+
+**What does it mean to be a good team member in software development?**
+
+Being a good team member in software development means actively contributing to the team's goals, communicating effectively, and supporting fellow team members. It involves a collaborative mindset, where sharing knowledge, helping to resolve blockers, and being open to feedback are crucial. A good team member also adheres to the agreed-upon processes and respects the roles and contributions of others within the team. In the context of the Scrum-Agile approach, this means participating actively in meetings, being transparent about progress and challenges, and working towards the collective success of the project. Effective communication, reliability, and a willingness to adapt to changing requirements are key traits of a good team member.
